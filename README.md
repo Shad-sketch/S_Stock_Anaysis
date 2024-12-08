@@ -1,3 +1,4 @@
+For visuals: https://public.tableau.com/app/profile/shadrack.nzue
 # Introduction
 As a stock enthusiast and trader, I conducted this analysis to evaluate Safaricom's stock performance from 2012 to 2019. The project focuses on price movements, trading volumes, returns, and volatility, uncovering trends and correlations. Using daily stock data.
 
